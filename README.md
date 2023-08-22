@@ -11,5 +11,5 @@ Snowflake • AWS • Sigma Computing • Tableau • Looker Studio • Jira
 PostgreSQL • Python (Pandas, NumPy) • R
 
 #### **Competencies**
-ELT & Data Pipelines • Data Modeling • Regression Analysis • Statistical Analysis • Machine Learning • Data Architecture Design & Strategy • Creative Storyteller • Receptive & Resourceful Teammates • Project Management
+ELT & Data Pipelines • Data Modeling • Regression Analysis • Statistical Analysis • Machine Learning • Data Architecture Design & Strategy • Creative Storyteller • Receptive & Resourceful Teammate • Project Management
 
