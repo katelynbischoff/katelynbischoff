@@ -5,7 +5,7 @@ I am a mission-driven Data Scientist who is interested in the confluence of mach
 - If you're on [LinkedIn](https://www.linkedin.com/in/katelyn-bischoff/) - I would love to connect with you!
 
 #### **Tooling** 
-Snowflake • AWS • Sigma Computing • Tableau • Looker Studio • Jira
+Snowflake • AWS • Sigma Computing • Tableau • Looker Studio • Jira • Airflow
 
 #### **Languages** 
 PostgreSQL • Python (Pandas, NumPy) • R
