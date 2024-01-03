@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Katelyn
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katelyn-bischoff/)](https://www.linkedin.com/in/katelyn-bischoff/)
 
-As a mission-driven Data Scientist, I'm committed to using data to better society - especially where machine learning, healthcare, and economics are concerned. I'm impassioned by teaching and derive immense joy from helping others reach their "aha" moment. 
+As a mission-driven Data Scientist, I'm committed to using data to better society - especially where statistics, healthcare, and economics are concerned. I'm impassioned by teaching and derive immense joy from helping others reach their "aha" moment. 
 
 In my professional journey, I've spearheaded the conception and implementation of a comprehensive data platform, requiring remote collaboration with leaders across the organization to gather analytical requirements. I developed scalable ELT pipelines to consolidate data from mobile and web applications and third parties. Additionally, I created intuitive dashboard interfaces for business users to access real-time metrics at their convenience. 
 
