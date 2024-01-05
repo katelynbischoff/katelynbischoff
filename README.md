@@ -12,7 +12,7 @@ I earned my Bachelor's degree from Ohio Wesleyan University, where I double majo
 Please feel free to reach out! I'm available for coffee chats and would love to discuss all things data (or whatever else is on your mind).
 
 ### **Skills**
-PostgreSQL | Python (Pandas, NumPy) | R (lmtest, tidyverse) | Snowflake | AWS | Airflow | Sigma Computing | Tableau | Looker Studio 
+PostgreSQL | Python (Pandas, NumPy) | R (lmtest, tidyverse) | Snowflake | AWS | Airflow | Sigma Computing | Tableau | Looker Studio | Jira | GitHub | 
 
 
 
