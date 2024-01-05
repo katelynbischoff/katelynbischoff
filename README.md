@@ -1,18 +1,45 @@
-### Hello! 👋 I'm Katelyn
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katelyn-bischoff/)](https://www.linkedin.com/in/katelyn-bischoff/)
+<h1 align='center'>
+  Hello! 👋 I'm Katelyn
+</h1>
 
-As a mission-driven Data Scientist, I'm committed to using data to better society - especially where statistics, healthcare, and economics are concerned. I'm impassioned by teaching and derive immense joy from helping others reach their "aha" moment. 
+<h3 align='center'>
+  Data Scientist • Healthcare • Economics 
+</h3>
 
-In my professional journey, I've spearheaded the conception and implementation of a comprehensive data platform, requiring remote collaboration with leaders across the organization to gather analytical requirements. I developed scalable ELT pipelines to consolidate data from mobile and web applications and third parties. Additionally, I created intuitive dashboard interfaces for business users to access real-time metrics at their convenience. 
+<br>
+</br>
 
-I possess a unique blend of technical prowess and business acumen, allowing me to lead projects from start to finish. I have been commended and recognized for my stellar communication skills, ability to problem-solve complex challenges involving data in the healthcare space, and for driving a positive culture in a remote company. 
+<p align='center'>
+  I'm a mission-oriented Data Scientist who is highly interested in the confluence of statistics, machine learning, healthcare, and economics. I have extensive experience working in startups and fast-paced environments.
+</p>
 
-I earned my Bachelor's degree from Ohio Wesleyan University, where I double majored in Data Analytics and Business Administration. In my undergraduate years, I founded a startup to teach small businesses how to maintain low-tech data collection and dashboarding frameworks. I received the Burton D. Morgan Research Award for my research proposal contingent upon completing research on fostering a culture of innovation within larger organizations. 
+<br>
+</br>
 
-Please feel free to reach out! I'm available for coffee chats and would love to discuss all things data (or whatever else is on your mind).
+<h3 align='center'>
+  Skills
+</h3>
 
-#### **Skills**
-PostgreSQL | Python (Pandas, NumPy) | R (lmtest, tidyverse) | Snowflake | AWS | Airflow | Sigma Computing | Tableau | Looker Studio | Jira | GitHub 
+<p align='center'>
+  <a>
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Python_|_Pandas_|_NumPy-3776AB?logo=python&logoColor=white"/> 
+    <img align="center" src="https://img.shields.io/badge/RStudio_|_lmtest_|_tidyverse-276DC3?logo=r&logoColor=white"/> 
+  </a>
+</p>
+
+<p align='center'>
+  <a>
+    <img align="center" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/> 
+    <img align="center" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/> 
+    <img align="center" src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Sigma_Computing-teal"/> 
+    <img align="center" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/> 
+    <img align="center" src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white"/> 
+  </a>
+</p>
+
+
 
 
 
