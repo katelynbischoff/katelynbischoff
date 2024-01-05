@@ -2,22 +2,34 @@
   Hello! 👋 I'm Katelyn
 </h1>
 
-<h3 align='center'>
-  Data Scientist • Healthcare • Economics 
-</h3>
-
-<br>
-</br>
+<h2 align='center'>
+  Data Science • Healthcare • Economics
+</h2>
 
 <p align='center'>
-  I'm a mission-oriented Data Scientist who is highly interested in the confluence of statistics, machine learning, healthcare, and economics. I have extensive experience working in startups and fast-paced environments.
+  <a href="https://www.linkedin.com/in/katelyn-bischoff/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katelyn-bischoff/"/>
+  </a>
 </p>
 
 <br>
 </br>
 
+
+<p align='center'>
+Data Scientist motivated and guided by tackling challenges within the healthcare sector. Experienced leveraging AWS, Snowflake, Airflow, Python, PostgreSQL, and a suite of business intelligence tools to establish infrastructure and tell compelling stories with data. Technical contributor with end to end project management skills and the capacity to underscore broader business objectives. Commended for stellar communication, solving complex technical challenges, enthusiasm to learn new skills on the job, and positively driving culture on remote teams. 
+
+My professional experience includes the development of a comprehensive data platform from conception to implementation. Leveraging Python, SQL, AWS, Airflow, and Snowflake, I developed scalable ELT pipelines to amalgamate data from disparate sources to feed into real-time dashboards. I thrive in fast-paced environments and enjoy being both a technical contributor and high-level strategist. 
+
+I'm a big Cal Newport fan and enjoy spending time in nature. Feel free to reach out and connect with me on LinkedIn!
+</p>
+
+
+<br>
+</br>
+
 <h3 align='center'>
-  Skills
+  Skills and Tooling
 </h3>
 
 <p align='center'>
@@ -35,7 +47,14 @@
     <img align="center" src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Sigma_Computing-teal"/> 
     <img align="center" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/> 
-    <img align="center" src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white"/> 
+    <img align="center" src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white"/>
+  </a>
+</p>
+
+<p align='center'>
+  <a>
+    <img align="center" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white"/>
   </a>
 </p>
 
