@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align='center'>
-  Data Science • Healthcare • Economics
+  Data Science 
 </h2>
 
 <p align='center'>
