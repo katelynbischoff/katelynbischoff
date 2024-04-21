@@ -2,10 +2,6 @@
   Hello! 👋 I'm Katelyn
 </h1>
 
-<h2 align='center'>
-  Data Science 
-</h2>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/katelyn-bischoff/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katelyn-bischoff/"/>
