@@ -20,8 +20,6 @@
 Data Scientist experienced leveraging AWS, Snowflake, Airflow, Python, PostgreSQL, and a suite of business intelligence tools to establish infrastructure and tell compelling stories with data. Technical contributor with end to end project management skills and the capacity to underscore broader business objectives. Commended for stellar communication, solving complex technical challenges, enthusiasm to learn new skills on the job, and positively driving culture on remote teams. 
 
 My professional experience includes the development of a comprehensive data platform from conception to implementation. Leveraging Python, SQL, AWS, Airflow, and Snowflake, I developed scalable ELT pipelines to amalgamate data from disparate sources to feed into real-time dashboards. I thrive in fast-paced environments and enjoy being both a technical contributor and high-level strategist. 
-
-I'm a big Cal Newport fan and enjoy spending time in nature. Feel free to reach out and connect with me on LinkedIn!
 </p>
 
 
