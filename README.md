@@ -7,7 +7,7 @@
 </p>
 <br>
 <p>
-  I love all things data and am currently working as a Product Data Scientist at Prescient AI. My experience ranges from developing pipelines to product analytics to neural networks. I feel most excited when I'm learning something new and I love creating helpful resources to teach others! 
+  I love all things data and am currently working as a Data Scientist at Prescient AI. My experience ranges from developing pipelines to product analytics to neural networks. I feel most excited when I'm learning something new and I love creating helpful resources to teach others! 
 </p>
 <br>
 <p>
