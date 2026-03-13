@@ -1,21 +1,11 @@
-<h3 align='left'>
-  👋 Hi!
-</h3>
-<br>
 <p>
-  I'm Katelyn, a Data Scientist based in Columbus, OH.
+  👋 I'm Katelyn. I'm a data scientist and incoming GaTech MS CS student. I'm motivated to build human-first tech and make the world a little bit better in the process. Cliché, but true. 
 </p>
-<br>
 <p>
-  I love all things data and am currently working as a Data Scientist at Prescient AI. My experience ranges from developing pipelines to product analytics to neural networks. I feel most excited when I'm learning something new and I love creating helpful resources to teach others! 
+  Currently, I work at Prescient AI, where I get to tackle bleeding-edge problems in marketing science. On a given day I'm thinking critically about Bayesian inference and time-series modeling, and communicating these ideas beyond the research team. 
 </p>
-<br>
 <p>
-  Outside of work, I love to hit the gym, read, golf, and hike. I enjoy chatting about pretty much everything, but productivity and entrepreneurship have a special place in my heart :)
-</p>
-<br>
-<p>
-  Let's connect!
+  I'm always happy to connect and chat! Feel free to message me :)
 </p>
 
 <p align='left'>
